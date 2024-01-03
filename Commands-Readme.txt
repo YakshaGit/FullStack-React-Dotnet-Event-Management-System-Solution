@@ -39,6 +39,11 @@ BackEnd-Commands
 
 FrontEnd-Commands
 * You can follow series of command to setup React environment once you are in your project-name folder:
+	wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+
+	nvm install 16.16.0
+
+	Close terminal and open again with Frontend folder
 
 	npm install -> Will install all dependencies -> takes 10 to 15 min
 
